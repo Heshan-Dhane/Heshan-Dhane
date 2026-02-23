@@ -119,6 +119,18 @@ Click thumbnails to watch full tutorials.
 
 ---
 
+## 🌍 Live Cyber Threat Activity
+
+<p align="center">
+  <a href="https://cybermap.kaspersky.com">
+    <img src="https://img.shields.io/badge/Live%20Global%20Cyber%20Attack%20Map-00BFFF?style=for-the-badge&logo=hackaday&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  Click to view real-time cyber threat intelligence.
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0033A0,100:001F54&height=120&section=footer"/>
 </p>
