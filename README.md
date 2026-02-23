@@ -1,8 +1,6 @@
 <!-- ================== ROYAL BLUE HEADER ================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F54,50:0033A0,100:000000&height=180&section=header&text=HESHAN%20%7C%20ENGINEERING%20SYSTEMS&fontColor=00BFFF&fontSize=38&animation=fadeIn&fontAlignY=40" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Heshan+Kavindu+Dhanawardhana;Undergraduate+Software+Engineer;Full-Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+Systems&repeat=true" />
