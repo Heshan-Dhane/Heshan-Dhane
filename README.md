@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Full+Stack+%7C+Cybersecurity+%7C+Mobile;Java+%7C+React+%7C+React+Native+%7C+C;Building+Secure+Systems;Documenting+The+Journey" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Heshan+Kavindu+Dhanawardhana;Undergraduate+Software+Engineer;Full-Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+Systems&repeat=true" />
 </p>
 
 ---
