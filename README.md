@@ -23,7 +23,7 @@ Exploring the intersection of Code, Security & Cognitive Science
 ## ⚙️ TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,reactnative,nodejs,c,js,html,css,git,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,react,nodejs,c,js,html,css,git,github,linux&theme=dark" />
 </p>
 
 ---
