@@ -1,114 +1,140 @@
-<!-- ======================= ROYAL COMMAND HEADER ======================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:001F54,100:0033A0&height=200&section=header&text=HESHAN%20KAVINDU%20DHANAWARDHANA&fontColor=00BFFF&fontSize=35&animation=fadeIn&fontAlignY=38" />
-</p>
+```
+██╗  ██╗███████╗███████╗██╗  ██╗ █████╗ ███╗   ██╗
+██║  ██║██╔════╝██╔════╝██║  ██║██╔══██╗████╗  ██║
+███████║█████╗  ███████╗███████║███████║██╔██╗ ██║
+██╔══██║██╔══╝  ╚════██║██╔══██║██╔══██║██║╚██╗██║
+██║  ██║███████╗███████║██║  ██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=Undergraduate+Software+Engineer;Full-Stack+Developer;Cybersecurity+Enthusiast;React+%7C+Java+%7C+React+Native+%7C+C;Engineering+Secure+Systems&repeat=true" />
-</p>
+### `> Heshan Kavindu Dhanawardhana`
 
----
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Undergraduate+Software+Engineer+%F0%9F%8E%93;Building+Secure+%26+Scalable+Systems+%E2%9A%99%EF%B8%8F)
 
-<!-- ======================= CYBER VISUAL ENERGY ======================= -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="500"/>
-</p>
-
----
-
-## ⚡ TECH ARSENAL
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,reactnative,nodejs,c,js,html,css,git,github,linux&theme=dark" />
-</p>
+</div>
 
 ---
 
-## 🌍 CYBER INTELLIGENCE
+```bash
+$ whoami
+> Undergraduate Software Engineer | Full Stack Dev | CyberSec Explorer
 
-<p align="center">
-  <a href="https://cybermap.kaspersky.com">
-    <img src="https://img.shields.io/badge/LIVE%20CYBER%20THREAT%20MAP-001F54?style=for-the-badge&logo=hackaday&logoColor=00BFFF"/>
-  </a>
-</p>
-
----
-
-## 📊 SYSTEM ANALYTICS
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF" />
-</p>
+$ cat about.txt
+> 🎓  Pursuing a degree in Software Engineering
+> 💻  Passionate about building full-stack web applications
+> 🔐  Exploring the world of cybersecurity & ethical hacking
+> 🌏  Based in Sri Lanka 🇱🇰
+> 🚀  Always learning. Always building. Always breaking things (ethically).
+```
 
 ---
 
-## 🎥 FEATURED CONTENT
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="YOUR_YOUTUBE_VIDEO_1">
-    <img src="YOUR_THUMBNAIL_1" width="280"/>
-  </a>
-  <a href="YOUR_YOUTUBE_VIDEO_2">
-    <img src="YOUR_THUMBNAIL_2" width="280"/>
-  </a>
-  <a href="YOUR_YOUTUBE_VIDEO_3">
-    <img src="YOUR_THUMBNAIL_3" width="280"/>
-  </a>
-</p>
+<div align="center">
 
----
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🌐 CONNECT WITH ME
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-<p align="center">
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-000814?style=for-the-badge&logo=github&logoColor=00BFFF"/>
-</a>
+### 🔐 Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0033A0?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🧰 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<a href="YOUR_YOUTUBE">
-<img src="https://img.shields.io/badge/YouTube-001F54?style=for-the-badge&logo=youtube&logoColor=00BFFF"/>
-</a>
-
-<a href="YOUR_TWITTER">
-<img src="https://img.shields.io/badge/Twitter-000814?style=for-the-badge&logo=twitter&logoColor=00BFFF"/>
-</a>
-
-<a href="YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-001F54?style=for-the-badge&logo=instagram&logoColor=00BFFF"/>
-</a>
-
-<a href="YOUR_TIKTOK">
-<img src="https://img.shields.io/badge/TikTok-0033A0?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-<a href="YOUR_FACEBOOK">
-<img src="https://img.shields.io/badge/Facebook-001F54?style=for-the-badge&logo=facebook&logoColor=00BFFF"/>
-</a>
-
-<a href="YOUR_TWITCH">
-<img src="https://img.shields.io/badge/Twitch-000814?style=for-the-badge&logo=twitch&logoColor=00BFFF"/>
-</a>
-
-<a href="YOUR_KICK">
-<img src="https://img.shields.io/badge/Kick-0033A0?style=for-the-badge&logo=kick&logoColor=white"/>
-</a>
-
-<a href="YOUR_KOFI">
-<img src="https://img.shields.io/badge/Ko--fi-001F54?style=for-the-badge&logo=ko-fi&logoColor=00BFFF"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0033A0,50:001F54,100:000814&height=120&section=footer"/>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41" height="165"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=matrix&hide_border=true&background=0D1117&fire=00FF41&ring=00FF41&currStreakLabel=00FF41)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🔐 CyberSec Interests
+
+```
+╔══════════════════════════════════════════════╗
+║  🕵️  Penetration Testing & Ethical Hacking   ║
+║  🌐  Web Application Security (OWASP)        ║
+║  🔍  Network Security & Monitoring           ║
+║  🛡️  Vulnerability Assessment               ║
+║  🔒  Cryptography & Secure Protocols         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+## 🚀 What I'm Currently Up To
+
+```javascript
+const heshan = {
+  studying:   "Software Engineering 🎓",
+  learning:   ["Cybersecurity", "Cloud Architecture", "System Design"],
+  building:   "Full Stack projects with a security-first mindset 🔨",
+  goal:       "Full Stack Dev & Security Engineer 🎯",
+  fuelledBy:  "Coffee + curiosity ☕",
+  openTo:     ["Collaborations", "Open Source", "Internships"] 🤝
+};
+```
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=firefox&logoColor=black)](https://YOUR_PORTFOLIO_URL)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> "Security is not a product, but a process." — Bruce Schneier
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
