@@ -1,129 +1,141 @@
 <div align="center">
 
-```
-██╗  ██╗███████╗███████╗██╗  ██╗ █████╗ ███╗   ██╗
-██║  ██║██╔════╝██╔════╝██║  ██║██╔══██╗████╗  ██║
-███████║█████╗  ███████╗███████║███████║██╔██╗ ██║
-██╔══██║██╔══╝  ╚════██║██╔══██║██╔══██║██║╚██╗██║
-██║  ██║███████╗███████║██║  ██║██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<!-- Matrix rain header via SVG -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=HESHAN%20KAVINDU&fontSize=50&color=0:00ff41,100:006400&fontColor=00ff41&stroke=00ff41&strokeWidth=1&animation=twinkling&desc=Full%20Stack%20Dev%20%7C%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=78&descColor=7d8590" width="100%"/>
 
-### `> Heshan Kavindu Dhanawardhana`
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Undergraduate+Software+Engineer+%F0%9F%8E%93;Building+Secure+%26+Scalable+Systems+%E2%9A%99%EF%B8%8F;break+things+ethically.+build+things+securely." alt="Typing SVG"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Undergraduate+Software+Engineer+%F0%9F%8E%93;Building+Secure+%26+Scalable+Systems+%E2%9A%99%EF%B8%8F)
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-00ff41?style=flat-square&labelColor=0d1117&color=00ff41"/>
+  <img src="https://img.shields.io/badge/Interest-Cybersecurity-f85149?style=flat-square&labelColor=0d1117&color=f85149"/>
+  <img src="https://img.shields.io/badge/Based_In-Sri_Lanka_🇱🇰-388bfd?style=flat-square&labelColor=0d1117&color=388bfd"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&labelColor=0d1117&color=bc8cff&label=PROFILE+VIEWS"/>
+</p>
 
 </div>
 
 ---
 
 ```bash
-$ whoami
-> Undergraduate Software Engineer | Full Stack Dev | CyberSec Explorer
-
-$ cat about.txt
-> 🎓  Pursuing a degree in Software Engineering
-> 💻  Passionate about building full-stack web applications
-> 🔐  Exploring the world of cybersecurity & ethical hacking
-> 🌏  Based in Sri Lanka 🇱🇰
-> 🚀  Always learning. Always building. Always breaking things (ethically).
+┌──(heshan㉿dev)-[~]
+└─$ cat about_me.sh
 ```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔐 Cybersecurity
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🧰 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41" height="165"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=matrix&hide_border=true&background=0D1117&fire=00FF41&ring=00FF41&currStreakLabel=00FF41)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🔐 CyberSec Interests
-
-```
-╔══════════════════════════════════════════════╗
-║  🕵️  Penetration Testing & Ethical Hacking   ║
-║  🌐  Web Application Security (OWASP)        ║
-║  🔍  Network Security & Monitoring           ║
-║  🛡️  Vulnerability Assessment               ║
-║  🔒  Cryptography & Secure Protocols         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## 🚀 What I'm Currently Up To
 
 ```javascript
 const heshan = {
-  studying:   "Software Engineering 🎓",
-  learning:   ["Cybersecurity", "Cloud Architecture", "System Design"],
-  building:   "Full Stack projects with a security-first mindset 🔨",
-  goal:       "Full Stack Dev & Security Engineer 🎯",
-  fuelledBy:  "Coffee + curiosity ☕",
-  openTo:     ["Collaborations", "Open Source", "Internships"] 🤝
+  name     : "Heshan Kavindu Dhanawardhana",
+  role     : "Undergraduate Software Engineer",
+  focus    : ["Full Stack Development", "Cybersecurity"],
+  location : "Sri Lanka 🇱🇰",
+  learning : ["Cloud Architecture", "Ethical Hacking", "System Design"],
+  openTo   : ["Collaborations", "Open Source", "Internships"],
+  motto    : "Break things ethically. Build things securely.",
+  coffee   : "████████████████ 100%"
 };
 ```
 
 ---
 
-## 🌐 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&section=header" width="100%"/>
+
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🗄️ Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🔐 Cybersecurity
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Stats & Activity
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=matrix&hide_border=true&background=0D1117&fire=00FF41&ring=00FF41&currStreakLabel=00FF41&sideLabels=7d8590&dates=7d8590&currStreakNum=00ff41&sideNums=c9d1d9)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=006400&area=true&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🔐 Cybersecurity Focus
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   🕵️  Penetration Testing & Ethical Hacking                  ║
+║   🌐  Web Application Security  (OWASP Top 10)               ║
+║   🔍  Network Scanning & Traffic Analysis                     ║
+║   🛡️  Vulnerability Assessment & Reporting                   ║
+║   🔒  Cryptography & Secure Coding Practices                  ║
+║   💀  CTF Challenges  &  Bug Bounty Hunting                   ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=firefox&logoColor=black)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=firefox&logoColor=black)](https://YOUR_PORTFOLIO)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD)
 
 </div>
 
@@ -135,6 +147,6 @@ const heshan = {
 > "Security is not a product, but a process." — Bruce Schneier
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:00ff41&height=100&section=footer&reversal=true" width="100%"/>
 
 </div>
