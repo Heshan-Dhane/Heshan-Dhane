@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-00ff41?style=flat-square&labelColor=0d1117&color=00ff41"/>
   <img src="https://img.shields.io/badge/Interest-Cybersecurity-f85149?style=flat-square&labelColor=0d1117&color=f85149"/>
   <img src="https://img.shields.io/badge/Based_In-Sri_Lanka_🇱🇰-388bfd?style=flat-square&labelColor=0d1117&color=388bfd"/>
-  <img src="https://komarev.com/ghpvc/?username=Heshan-Dhane&style=flat-square&labelColor=0d1117&color=bc8cff&label=PROFILE+VIEWS"/>
 </p>
 
 </div>
