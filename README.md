@@ -81,20 +81,20 @@ const heshan = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Heshan-Dhane&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=matrix&hide_border=true&background=0D1117&fire=00FF41&ring=00FF41&currStreakLabel=00FF41&sideLabels=7d8590&dates=7d8590&currStreakNum=00ff41&sideNums=c9d1d9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Heshan-Dhane&theme=matrix&hide_border=true&background=0D1117&fire=00FF41&ring=00FF41&currStreakLabel=00FF41&sideLabels=7d8590&dates=7d8590&currStreakNum=00ff41&sideNums=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=006400&area=true&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Heshan-Dhane&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=006400&area=true&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
