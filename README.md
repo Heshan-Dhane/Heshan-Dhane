@@ -137,6 +137,6 @@ const heshan = {
 > "Security is not a product, but a process." — Bruce Schneier
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:00ff41&height=100&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4169E1&height=100&section=footer&reversal=true" width="100%"/>
 
 </div>
