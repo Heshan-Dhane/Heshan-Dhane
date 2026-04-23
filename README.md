@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Matrix rain header via SVG -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=HESHAN%20KAVINDU&fontSize=50&color=0:000000,100:4169E1&stroke=4169E1&strokeWidth=1&animation=twinkling&desc=Full%20Stack%20Dev%20%7C%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=78&descColor=7d8590" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=HESHAN%20KAVINDU&fontSize=50&color=0:002366,100:4169E1&stroke=4169E1&strokeWidth=1&animation=twinkling&desc=Full%20Stack%20Dev%20%7C%20Cybersecurity%20Enthusiast&descSize=18&descAlignY=78&descColor=FFFFFF" width="100%"/>
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Undergraduate+Software+Engineer+%F0%9F%8E%93;Building+Secure+%26+Scalable+Systems+%E2%9A%99%EF%B8%8F;break+things+ethically.+build+things+securely." alt="Typing SVG"/>
